@@ -6,4 +6,5 @@ Description : 主要功能ＣＲＵＤ
 
 # <Strong>_使用技術_</Strong>
 1.PHP
-2.& MySQL
+<br>
+2.MySQL
